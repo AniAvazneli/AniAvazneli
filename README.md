@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AniAvazneli" alt="AniAvazneli" /></a> </p>
 
-- 🌱 I’m currently learning in the Bootcamp of Oto **https://oto.bitcamp.ge/**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AniAvazneli](https://github.com/AniAvazneli)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ani-avazneli-3371b015a/**
