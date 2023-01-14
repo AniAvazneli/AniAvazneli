@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ani Avazneli</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
+<h2 align="center">:woman_technologist: Hello I’m Ani, result-oriented front-end developer. The thing I like most about programming is creating
+something from almost nothing. I’m curious and I like to study, so diving into new technologies, languages,
+and libraries is really fascinating for me. As a programmer, I always have new things to learn and I love it.
+</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AniAvazneli&label=Profile%20views&color=3f5427&style=plastic" alt="AniAvazneli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AniAvazneli" alt="AniAvazneli" /></a> </p>
-
-   Hello I’m Ani, result-oriented front-end developer. The thing I like most about programming is creating
-something from almost nothing. I’m curious and I like to study, so diving into new technologies, languages,
-and libraries is really fascinating for me. As a programmer, I always have new things to learn and I love it.
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/AniAvazneli](https://github.com/AniAvazneli)
 
