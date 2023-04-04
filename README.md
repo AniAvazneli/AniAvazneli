@@ -12,7 +12,7 @@ and libraries is really fascinating for me. As a programmer, I always have new t
 
 - 👨‍💻 All of my projects are available at [https://github.com/AniAvazneli](https://github.com/AniAvazneli)
 
-- 📫 How to reach me **https://www.linkedin.com/in/ani-avazneli-3371b015a/**
+- 📫 How to reach me **https://www.linkedin.com/in/aniavazneli/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
