@@ -15,6 +15,7 @@ and libraries is really fascinating for me. As a programmer, I always have new t
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/ani-avazneli-3371b015a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AniAvazneli" height="30" width="40" /></a>
 <a href="https://www.instagram.com/annie_avazneli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AniAvazneli" height="30" width="40" /></a>
 </p>
@@ -28,6 +29,7 @@ and libraries is really fascinating for me. As a programmer, I always have new t
   </a>
 </p>
 <a> 
+  
   <a href="https://github.com/AniAvazneli"><img alt="AniAvazneli's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AniAvazneli&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <a href="https://github.com/AniAvazneli"><img alt="AniAvazneli's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AniAvazneli&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
