@@ -34,7 +34,6 @@ and libraries is really fascinating for me. As a programmer, I always have new t
   <br/>
 </a>
 
-
 <p align="center">
   <a href="https://github.com/AniAvazneli">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniAvazneli&theme=radical&border=7F3FBF&background=0D1117" alt="AniAvazneli's GitHub streak"/>
