@@ -4,7 +4,6 @@
 something from almost nothing. I’m curious and I like to study, so diving into new technologies, languages,
 and libraries is really fascinating for me. As a programmer, I always have new things to learn and I love it.
 </h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AniAvazneli&label=Profile%20views&color=3f5427&style=plastic" alt="AniAvazneli" /> </p>
 
 
